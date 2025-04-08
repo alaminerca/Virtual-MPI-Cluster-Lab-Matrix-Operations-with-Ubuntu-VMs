@@ -1,0 +1,2 @@
+This guide explains how to set up a simple MPI cluster using VirtualBox and LAM/MPI. 
+The process may seem tedious at first — setting up virtual machines, configuring networks, and installing MPI tools. But once it's done, you'll have a powerful learning environment that mirrors real-world parallel systems. You only need to go through this setup once. After that, experimenting with MPI programs becomes easy and fun!
