@@ -395,7 +395,7 @@ If LAM won't start or has connectivity problems:
 ---
 
 ## Optional: Using Shared Folder (NFS)
-For a more efficient setup, consider using NFS to create a shared directory across all nodes, eliminating the need to manually copy files.
+For a more efficient setup, consider using NFS to create a shared directory across all nodes, eliminating the need to manually copy files (see nfs_shared_folder_setup.md).
 
 ---
 
